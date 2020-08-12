@@ -1,4 +1,4 @@
-Simple Survey app to learn laravel with login and register
+Simple Survey app while learning laravel
 
 ![image](https://i.postimg.cc/mrfsBKBf/Capture.png)
 
